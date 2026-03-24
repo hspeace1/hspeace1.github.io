@@ -127,16 +127,6 @@ footer {
     color: #6b7280;
 }
 
-
-@media (max-width: 768px) {
-    nav {
-        justify-content: flex-start;
-    }
-
-    .site-title {
-        margin-bottom: 0.5rem;
-    }
-}
 .navbar {
     padding: 1rem 0;
 }
