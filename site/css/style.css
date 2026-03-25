@@ -1,6 +1,6 @@
 
   
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -15,9 +15,6 @@ body {
 }
 
 
-.container {
-    max-width: 1100px;
-}
 
 
 .site-title {
@@ -142,9 +139,6 @@ footer {
 
 .navbar-brand {
     color: #1f2937;
-}
-body {
-    background-color: #f8f5f2;
 }
 
 section {
