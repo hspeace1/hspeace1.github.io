@@ -2,7 +2,7 @@
 body {
 background-color: #000;
 color: #F7F7F7;
-font-family: 'Inter', sans-serif;
+font-family: 'Google Sans Flex', sans-serif;
 font-size: 17px;
 line-height: 1.6;
 }
@@ -42,10 +42,10 @@ margin-top: 3em;
 margin-bottom: 3em;
 }
 
-em {
-color: #919191;
-font-size: .75em;
-display: block;
+main em {
+    color: #919191;
+    font-size: .75em;
+    display: block;
 }
 
 .byline {
