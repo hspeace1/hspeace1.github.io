@@ -1,0 +1,117 @@
+
+body {
+background-color: #000;
+color: #F7F7F7;
+font-family: 'Google Sans Flex', sans-serif;
+font-size: 17px;
+line-height: 1.6;
+}
+
+header {
+text-align: center;
+}
+
+h1 {
+font-family: 'Prompt', sans-serif;
+font-size: 5em;
+font-weight: 300;
+color: #d3d3d3;
+margin-top: 2em;
+margin-bottom: 4em;
+}
+
+header span {
+font-weight: 500;
+letter-spacing: 2px;
+color: #F7F7F7;
+}
+
+
+.container {
+width: 45% !important;
+max-width: 100%;
+}
+
+.container-fluid {
+width: 85% !important;
+}
+
+
+section {
+margin-top: 3em;
+margin-bottom: 3em;
+}
+
+
+main em {
+color: #919191;
+font-size: .75em;
+display: block;
+}
+
+.byline {
+color: #919191;
+font-size: .75em;
+display: block;
+}
+
+
+a {
+color: #F7F7F7;
+}
+
+
+.photo-grid {
+background-color: #F7F7F7;
+color: #000;
+padding-top: 3em;
+padding-bottom: 3em;
+}
+
+.photo-grid p {
+font-size: .85em;
+}
+
+.photo-grid main em {
+text-align: right;
+font-weight: 300;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+
+
+footer {
+text-align: center;
+}
+
+footer em {
+color: #919191;
+font-size: .75em;
+display: block;
+}
+
+
+@media (max-width: 550px) {
+
+h1 {
+font-size: 3em;
+}
+
+.container {
+width: 95% !important;
+}
+
+.container-fluid {
+width: 95% !important;
+}
+
+section {
+margin: auto;
+}
+
+.photo-grid {
+margin-top: 2em;
+margin-bottom: 2em;
+}
+
+}
