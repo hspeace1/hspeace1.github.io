@@ -30,7 +30,7 @@ body {
 }
 
 
-body p {
+.article p {
   max-width: 700px;
   margin: 20px auto;
   font-size: 16px;
