@@ -60,11 +60,6 @@ body p {
   color: gray;
 }
 
-h2 {
-  max-width: 700px;
-  margin: 30px auto 10px auto;
-  color: var(--red);
-}
 
 footer {
   background-color: var(--black);
